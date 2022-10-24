@@ -1,4 +1,4 @@
-I am create this homework with minimal UI (use Swing), for best usage. Use english, becouse very many problem with russian in jdk and codepage. 
+I am create this home work with minimal UI (use Swing), for best usage. Use English, because very many problem with Russian in jdk and codepage. If I can more time, I can create many change by code.
 
 ![1](https://user-images.githubusercontent.com/87657613/197617801-15b8cab9-c161-43f0-a092-cbbcab7629da.png)
 
